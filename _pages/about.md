@@ -31,6 +31,3 @@ My research interests lie in the fields of Reinforcement Learning (RL), Natural 
 </ul>
 
 
-[//]: # ({% include_relative _includes/publications.md %})
-
-<!-- {% include_relative _includes/services.md %} -->
