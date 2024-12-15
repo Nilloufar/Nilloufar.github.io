@@ -1,37 +1,45 @@
-
-
-
 ---
 layout: homepage
 ---
+
 ## About Me
 
-I am currently a Ph.D. student at the [Department of Computer Science and Engineering](https://engineering.msu.edu/about/departments/cse) of [Michigan State University (MSU)](https://msu.edu/), advised by Dr. [Mohammad Ghassemi](https://scholar.google.co.in/citations?user=SXGVLXQAAAAJ&hl=en).  
+I am currently a Ph.D. student at the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao) and Prof. [Ya Zhang](https://scholar.google.com/citations?user=pbjw9sMAAAAJ&hl=zh-CN&oi=ao).  I received my bachelor's degree from Shanghai Jiao Tong University in June 2022, during which I worked as a research assistant at [ThinkLab](https://thinklab.sjtu.edu.cn/) under the guidance of Prof. [Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao).
 
 ## Research Interests
-My research interests lie in the fields of Reinforcement Learning (RL), Natural Language Processing (NLP), and computer vision. My primary research focus is offline RL and sequence modeling. More specifically I am interested in leveraging human and artificial intelligence to build innovative and safe methods that solve complex problems in domains where human decision-making plays a critical role. Additionally, I am interested in utilizing foundational models as effective tools for facilitating the learning process in these domains.
+
+- **Computer Vision:** autonomous driving, embodied AI
+- **Machine Learning:** reinforcement learning, continuous learning
 
 ## News
-
-- **[Dec. 2024]** One paper accepted to AAAI 2025.
-
+- **[Dec. 2024]** I went to NTU for one year of research.
+- **[Nov. 2024]** I received the national scholarships of 2024.
+- **[Sep. 2024]** One paper is accepted to NeurIPS 2024.
+- **[May. 2024]** One paper is accepted to TPAMI.
+- **[May. 2024]** Three papers are accepted to ICML 2024.
+- **[Jan. 2024]** Our paper about multi-agent communication is accepted to ICLR 2024.
+- **[Jun. 2022]** Our paper about autonomouse driving is accepted to ECCV 2022.
 
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://amia.org/" ><autocolor>merican Medical Informatics Association (AMIA) Annual Symposium, 2023.</autocolor></a></li>
-  <li><a href="https://embc.embs.org/"><autocolor>IEEE International Conference on Biomedical and Health Informatics, 2023</autocolor></a></li>
-  <li><a><autocolor>13th Annual Mid-Michigan Symposium for Undergraduate Research Experiences (Mid-SURE)</autocolor></a></li>
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-25/"><autocolor>The Association for the Advancement of Artificial Intelligence (AAAI) 2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
+  <li><a href="http://cvpr2024.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</autocolor></a></li>
 </ul>
-
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://link.springer.com/journal/11517"><autocolor>Medical \& Biological Engineering \& Computing (Springer)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition-letters"><autocolor>Pattern Recognition Letters</autocolor></a></li>
+  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+  <li><a href="https://www.ieee-ras.org/publications/ra-l"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
 </ul>
 
 
+{% include_relative _includes/publications.md %}
+
+<!-- {% include_relative _includes/services.md %} -->

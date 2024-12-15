@@ -1,55 +1,49 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Niloufar Eghbali"
-title_separator          : "-"
-name                     : &name "Niloufar Eghbali"
-description              : &description "Computer Science Ph.D. Student "
-url                      : https://nilloufar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nilloufar/nilloufar.github.io"
+# Basic Information
+title: Shengchao Hu
+position: Ph.D. Student
+affiliation: Shanghai Jiao Tong University
+email: charles-hu@sjtu.edu.cn
+wechat: Chitande
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: CV, Niloufar Eghbali,
+keywords: CV, Shengchao Hu,
 description: Personel CV
-canonical: https://nilloufar.github.io/
+canonical: https://charleshsc.github.io/
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Niloufar Eghbali"
-  pronouns         : # example: "she/her"  
-  bio              : "Computer Science Ph.D. Student"
-  location         : "East Lansing, MI, USA."
-  employer         : "Michigan State University"
-  uri              : # URL
-  email            : "eghbaliz@msu.edu" 
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=dOsBnNkAAAAJ&hl=zh-CN&oi=ao/
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/charleshsc/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
-  # Academic websites
-  arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=IDOuCg0AAAAJ&hl=en"
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+avatar: ./assets/img/duck.JPG
+favicon: ./assets/img/duck.JPG
+favicon_dark: ./assets/img/duck.JPG
 
-  # Repositories and software development
-  github           : "nilloufar"
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
 
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+# google_analytics: UA-111540567-4
 
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
