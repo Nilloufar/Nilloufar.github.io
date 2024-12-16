@@ -10,13 +10,10 @@ canonical: https://nilloufar.github.io/
 #  # Biographic information
 avatar: ./assets/img/avatar.png
 title                    : "Niloufar Eghbali"
-#  pronouns         : # example: "she/her"
 position              : "Computer Science Ph.D. Student"
 affiliation: Michigan State Unicersity
+location         : "East Lansing, MI, USA."
 
-#  location         : "East Lansing, MI, USA."
-#  employer         : "Michigan State University"
-#  uri              : # URL
 email            : "eghbaliz@msu.edu"
 #
 
