@@ -15,17 +15,17 @@ keywords: CV, Niloufar Eghbali,
 description: Personel CV
 canonical: https://nilloufar.github.io/
 
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Niloufar Eghbali"
-  pronouns         : # example: "she/her"
-  bio              : "Computer Science Ph.D. Student"
-  location         : "East Lansing, MI, USA."
-  employer         : "Michigan State University"
-  uri              : # URL
-  email            : "eghbaliz@msu.edu"
-
+#author:
+#  # Biographic information
+avatar: ./assets/img/profile.png
+#  name             : "Niloufar Eghbali"
+#  pronouns         : # example: "she/her"
+#  bio              : "Computer Science Ph.D. Student"
+#  location         : "East Lansing, MI, USA."
+#  employer         : "Michigan State University"
+#  uri              : # URL
+#  email            : "eghbaliz@msu.edu"
+#
 
 # Links
   # Academic websites

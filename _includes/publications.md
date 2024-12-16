@@ -12,11 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href=></a></div>
+    <div class="title"><a ></a></div>
     <div class="author"> <strong>Niloufar Eghbali</strong></div>
-    <div class="periodical"><em> <strong>(NeurIPS)</strong> </em></div>
+    <div class="periodical"><em> <strong>(AAAI)</strong> </em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2405.12094" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/MediaBrain-SJTU/FedLESAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-09648.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
