@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2405.18890">Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?</a></div>
+    <div class="title"><a href=></a></div>
     <div class="author"> <strong>Niloufar Eghbali</strong></div>
     <div class="periodical"><em> <strong>(NeurIPS)</strong> </em></div>
     <div class="links">
