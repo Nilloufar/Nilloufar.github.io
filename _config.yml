@@ -1,11 +1,7 @@
 # Basic Information
 locale                   : "en-US"
 title                    : "Niloufar Eghbali"
-title_separator          : "-"
-name                     : "Niloufar Eghbali"
-description              : "Computer Science Ph.D. Student "
 url                      : https://nilloufar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nilloufar/nilloufar.github.io"
 
 
@@ -20,11 +16,11 @@ canonical: https://nilloufar.github.io/
 avatar: ./assets/img/avatar.png
 #  name             : "Niloufar Eghbali"
 #  pronouns         : # example: "she/her"
-#  bio              : "Computer Science Ph.D. Student"
+title              : "Computer Science Ph.D. Student"
 #  location         : "East Lansing, MI, USA."
 #  employer         : "Michigan State University"
 #  uri              : # URL
-#  email            : "eghbaliz@msu.edu"
+email            : "eghbaliz@msu.edu"
 #
 
 # Links
