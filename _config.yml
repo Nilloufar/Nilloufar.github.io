@@ -2,8 +2,8 @@
 locale                   : "en-US"
 title                    : "Niloufar Eghbali"
 title_separator          : "-"
-name                     : &name "Niloufar Eghbali"
-description              : &description "Computer Science Ph.D. Student "
+name                     : "Niloufar Eghbali"
+description              : "Computer Science Ph.D. Student "
 url                      : https://nilloufar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nilloufar/nilloufar.github.io"
@@ -33,7 +33,7 @@ arxiv            :
 googlescholar    : "https://scholar.google.com/citations?user=IDOuCg0AAAAJ&hl=en"
 
 # Repositories and software development
-github           : "nilloufar"
+github           : "https://github.com/Nilloufar/"
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
