@@ -42,14 +42,16 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
+        <i class="fa-regular fa-building-columns" style="font-size:0.7rem"></i>
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.location %}
-        <i class="fa-solid fa-location-dot" style="font-size:1rem"></i> {{ site.location }}
+        <i class="fa-solid fa-location-dot" style="font-size:0.7rem"></i> {{ site.location }}
         <br>
         {% endif %}
         {% if site.email %}
+        <i class="fa-solid fa-envelope"  style="font-size:0.7rem"></i>
         <email>{{ site.email }}</email>
         <br>
         {% endif %}
@@ -62,25 +64,29 @@
         <div class="social-icons">
         {% if site.googlescholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.googlescholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
+          <i class="ai ai-google-scholar" style="font-size:1.2rem">Google Scholar</i>
+        </a>
+          <br>
         {% endif %}
+
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
+          <br>
         {% endif %}
 
         {% if site.github %}
         <a style="margin: 0 5px 0 0" href="{{ site.github }}">
-          <i class="fab fa-github"></i>
+          <i class="fab fa-github">GitHub</i>
         </a>
+          <br>
         {% endif %}
 
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
+          <i class="fab fa-linkedin">LinkedIn</i>
         </a>
         {% endif %}
 

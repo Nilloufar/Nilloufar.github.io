@@ -82,6 +82,20 @@ and Operative Reports</a></div>
     </div>
   </div>
 </div>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ECOC.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">PRL</abbr>
+  </div>
 
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865517303574">Improving multiclass classification using neighborhood search in error correcting output codes</a></div>
+    <div class="author"> <strong>Niloufar Eghbali</strong>,Gholam Ali Montazer </div>
+    <div class="periodical"><em> <strong> Pattern Recognition Letters. 2017</strong> </em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865517303574" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
 
 </li>
