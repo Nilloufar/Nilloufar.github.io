@@ -8,12 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/DeMa.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS</abbr>
+    <abbr class="badge">IEEE BHI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a ></a></div>
-    <div class="author"> <strong>Niloufar Eghbali</strong></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10313431">einforcement Learning Approach to Sedation and Delirium
+Management in the Intensive Care Unit</a></div>
+    <div class="author"> <strong>Niloufar Eghbali</strong>,Tuka Alhanai, Mohammad M. Ghassemi </div>
     <div class="periodical"><em> <strong>(AAAI)</strong> </em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
