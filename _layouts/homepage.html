@@ -29,7 +29,7 @@
 
   </head>
   <body>
-<div id="left-navbar">
+<div id="top-navbar">
       <nav><a href="#about-me">About Me</a>|<a href="#research-interests">Research Interests</a>|
           <a href="#services">Services</a>|
           <a href="#publications">Publications</a>
@@ -137,7 +137,7 @@
       ga('send', 'pageview');
 
       // Smooth Scrolling
-      document.querySelectorAll('#left-navbar a').forEach(anchor => {
+      document.querySelectorAll('#top-navbar a').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
           e.preventDefault();
           const targetId = this.getAttribute('href').substring(1);
