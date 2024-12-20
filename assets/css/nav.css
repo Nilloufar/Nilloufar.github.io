@@ -32,8 +32,4 @@
         color: #007bff;
       }
 
-      /* Content Margin Adjustment */
-      .wrapper {
-        margin-left: 220px; /* Adjust to make room for the navbar */
-      }
     </style>
