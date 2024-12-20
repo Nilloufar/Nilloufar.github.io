@@ -1,40 +1,40 @@
-  <style>
-    /* Navigation Bar */
-    #top-navbar {
-      position: fixed;
-      top: 0;
-      width: 100%;
-      background-color: #f8f9fa;
-      padding: 10px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      z-index: 1000; /* Ensure it stays above other elements */
-    }
+  /*<style>*/
+  /*  !* Navigation Bar *!*/
+  /*  #top-navbar {*/
+  /*    position: fixed;*/
+  /*    top: 0;*/
+  /*    width: 100%;*/
+  /*    background-color: #f8f9fa;*/
+  /*    padding: 10px;*/
+  /*    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);*/
+  /*    z-index: 1000; !* Ensure it stays above other elements *!*/
+  /*  }*/
 
-    #top-navbar nav {
-      text-align: center;
-    }
+  /*  #top-navbar nav {*/
+  /*    text-align: center;*/
+  /*  }*/
 
-    #top-navbar a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-      margin: 0 10px;
-    }
+  /*  #top-navbar a {*/
+  /*    text-decoration: none;*/
+  /*    color: #333;*/
+  /*    font-weight: bold;*/
+  /*    margin: 0 10px;*/
+  /*  }*/
 
-    #top-navbar a:hover {
-      color: #007bff;
-    }
+  /*  #top-navbar a:hover {*/
+  /*    color: #007bff;*/
+  /*  }*/
 
-    /* Page Sections */
-    section {
-      padding: 100px 20px;
-      margin-top: 60px; /* Offset for the fixed navbar */
-    }
+  /*  !* Page Sections *!*/
+  /*  section {*/
+  /*    padding: 100px 20px;*/
+  /*    margin-top: 60px; !* Offset for the fixed navbar *!*/
+  /*  }*/
 
-    /* Body Styling for Better Visibility */
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-    }
-  </style>
+  /*  !* Body Styling for Better Visibility *!*/
+  /*  body {*/
+  /*    font-family: Arial, sans-serif;*/
+  /*    line-height: 1.6;*/
+  /*    margin: 0;*/
+  /*  }*/
+  /*</style>*/
