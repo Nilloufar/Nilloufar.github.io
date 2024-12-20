@@ -11,7 +11,7 @@ I am currently a Ph.D. student at the [Department of Computer Science and Engine
 I am interested in leveraging human and artificial intelligence to build innovative and safe methods to solve complex problems in domains where human decision-making is critical. My primary research focus is offline Reinforcement Learning (RL) and sequence modeling with applications in sequential decision-making, computer vision and Natural Language Processing (NLP). Additionally, I am interested in utilizing foundational models for facilitating the learning process in these domains.
 
 
-##  <span id=id="services"> Services </span>
+##  <span id="services"> Services </span>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
