@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -13,7 +13,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2412.12597">Distribution-Free Uncertainty Quantification in Mechanical Ventilation Treatment: A Conformal Deep Q-Learning Framework
 </a></div>
     <div class="author"> <strong>Niloufar Eghbali</strong>, Tuka Alhanai, Mohammad M Ghassemi  </div>
-    <div class="periodical"><em> <strong> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2025</strong> </em></div>
+    <div class="periodical"><em> <strong> AAAI Conference on Artificial Intelligence. 2025</strong> </em></div>
     <div class="links">
         <a href="https://arxiv.org/pdf/2412.12597" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://github.com/HAAIL/ConformalDQN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

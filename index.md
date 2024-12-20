@@ -2,16 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## <span id="about-me">About Me</span>
+
 
 I am currently a Ph.D. student at the [Department of Computer Science and Engineering](https://engineering.msu.edu/about/departments/cse) of [Michigan State University (MSU)](https://msu.edu/), advised by Dr. [Mohammad Ghassemi](https://scholar.google.co.in/citations?user=SXGVLXQAAAAJ&hl=en).  
 
-## Research Interests
-My research interests lie in the fields of Reinforcement Learning (RL), Natural Language Processing (NLP), and computer vision. My primary research focus is offline RL and sequence modeling. More specifically I am interested in leveraging human and artificial intelligence to build innovative and safe methods that solve complex problems in domains where human decision-making plays a critical role. Additionally, I am interested in utilizing foundational models as effective tools for facilitating the learning process in these domains.
+## <span id="research-interests"> Research Interests </span>
+I am interested in leveraging human and artificial intelligence to build innovative and safe methods to solve complex problems in domains where human decision-making is critical. My primary research focus is offline Reinforcement Learning (RL) and sequence modeling with applications in sequential decision-making, computer vision and Natural Language Processing (NLP). Additionally, I am interested in utilizing foundational models for facilitating the learning process in these domains.
 
 
-
-## Services
+##  <span id=id="services"> Services </span>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
