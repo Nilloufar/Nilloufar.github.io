@@ -31,7 +31,7 @@ I am interested in leveraging human and artificial intelligence to build innovat
 
 
 {% include_relative _includes/publications.md %}
-<!--{% include_relative _includes/experience.md %}-->
+{% include_relative _includes/experience.md %}
 
 
 <!-- {% include_relative _includes/services.md %} -->
