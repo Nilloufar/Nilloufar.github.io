@@ -48,7 +48,7 @@
         {% endif %}
         {% if site.affiliation %}
         <i class="fa-solid fa-building-columns" style="font-size:0.7rem"></i>
-        <a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>
+        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.location %}
@@ -59,12 +59,7 @@
         <i class="fa-solid fa-envelope"  style="font-size:0.7rem"></i>
         <email>{{ site.email }}</email>
         <br>
-        {% endif %}
-        {% if site.wechat %}
-        <a href="wechat" rel="noopener"><autocolor>WeChat: {{ site.wechat }}</autocolor></a>
-        {% endif %}
 
-        <br>
         {% if site.googlescholar %}
         <a style="margin: 0 5px 0 0 " href="{{ site.googlescholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>Google Scholar
@@ -98,6 +93,7 @@
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
+        <br>
         <br>
         <div id="top-navbar">
           <autocolor>
