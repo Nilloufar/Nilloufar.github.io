@@ -10,8 +10,10 @@ canonical: https://nilloufar.github.io/
 #  # Biographic information
 avatar: ./assets/img/avatar.png
 title                    : "Niloufar Eghbali"
-position              : "Computer Science Ph.D. Student"
+position              : "Ph.D. Student"
+major                : "Computer Science"
 affiliation: Michigan State Unicersity
+affiliation_link: https://www.cse.msu.edu/
 location         : "East Lansing, MI, USA."
 
 email            : "eghbaliz@msu.edu"

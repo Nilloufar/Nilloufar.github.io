@@ -29,12 +29,6 @@
 
   </head>
   <body>
-<div id="top-navbar">
-      <nav><a href="#about-me">About Me</a>|<a href="#research-interests">Research Interests</a>|
-          <a href="#services">Services</a>|
-          <a href="#publications">Publications</a>
-      </nav>
-</div>
     <div class="wrapper">
       <header>
         
@@ -46,6 +40,10 @@
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <br>
+        {% endif %}
+        {% if site.major %}
+        <position style="font-size:1.10rem;">{{ site.major }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
@@ -68,7 +66,7 @@
 
         <br>
         {% if site.googlescholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.googlescholar }}">
+        <a style="margin: 0 5px 0 0 " href="{{ site.googlescholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>Google Scholar
         </a>
           <br>
@@ -101,7 +99,13 @@
         </a>
         {% endif %}
         <br>
-
+        <div id="top-navbar">
+      <nav><a href="#about-me">About Me</a> <\br>
+        <a href="#research-interests">Research Interests</a><\br>
+          <a href="#services">Services</a><\br>
+          <a href="#publications">Publications</a> <\br>
+      </nav>
+      </div>
       </header>
       <section>
 
