@@ -48,7 +48,7 @@
         {% endif %}
         {% if site.affiliation %}
         <i class="fa-solid fa-building-columns" style="font-size:0.7rem"></i>
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>
         <br>
         {% endif %}
         {% if site.location %}
@@ -100,10 +100,12 @@
         {% endif %}
         <br>
         <div id="top-navbar">
-      <nav><a href="#about-me">About Me</a> <\br>
-        <a href="#research-interests">Research Interests</a><\br>
-          <a href="#services">Services</a><\br>
-          <a href="#publications">Publications</a> <\br>
+          <autocolor>
+      <nav><a href="#about-me">About Me</a> <br>
+        <a href="#research-interests">Research Interests</a><br>
+          <a href="#services">Services</a><br>
+          <a href="#publications">Publications</a> <br>
+        </autocolor>
       </nav>
       </div>
       </header>
