@@ -21,7 +21,7 @@ body {
   background-color:transparent;
   color:#043361!important;
   border-radius:100%;
-  text-align:left;
+  text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
@@ -219,7 +219,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 25%;
+      border-radius: 100%;
     }
 
       .image.avatar:before {
@@ -227,9 +227,9 @@ papertitle {
       }
 
       .image.avatar img {
-      border-radius: 25%;
-      width: 100%;
-      padding:0px;
+        border-radius: 100%;
+        width: 45%;
+        padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -237,8 +237,7 @@ papertitle {
 
     #header .image.avatar {
       margin: 0 0 1em 0;
-      width: 20.00em;
-      border-radius: 25%
+      width: 8.00em;
     }
 
 h3, h4, h5, h6 {
@@ -311,7 +310,6 @@ a:hover small {
 .wrapper {
   width:960px;
   margin:0 auto;
-  margin-top: 60px;
 }
 
 blockquote {
@@ -481,7 +479,6 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
-    margin-top: 60px;
   }
 
 
@@ -514,9 +511,9 @@ footer {
 
 
    .image.avatar img {
-      border-radius: 25%;
-      width: 100%;
-      padding:0px;
+        border-radius: 100%;
+        width: 117px;
+        padding:20px;
       }
   #head1o2 {
     visibility: hidden;
@@ -570,9 +567,9 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 25%;
-      width: 100%;
-      padding:0px;
+      border-radius: 100%;
+      width: 95px;
+      padding:20px;
   }
   #head1o2 {
     visibility: hidden;
